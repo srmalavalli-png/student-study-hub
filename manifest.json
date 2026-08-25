@@ -1,0 +1,24 @@
+{
+  "name": "OmniStudy — Student Productivity Suite",
+  "short_name": "OmniStudy",
+  "description": "All-in-one focus timer with ambient soundscapes, markdown flashcards with spaced repetition, and GPA trajectory planner.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%236366f1'><rect width='192' height='192' rx='40' fill='%230b0f19'/><path d='M96 40L30 75l66 35 66-35-66-35zM30 117l66 35 66-35M30 96l66 35 66-35' stroke='%236366f1' stroke-width='12' fill='none'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%236366f1'><rect width='512' height='512' rx='100' fill='%230b0f19'/><path d='M256 100L80 195l176 95 176-95-176-95zM80 310l176 95 176-95M80 255l176 95 176-95' stroke='%236366f1' stroke-width='32' fill='none'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
